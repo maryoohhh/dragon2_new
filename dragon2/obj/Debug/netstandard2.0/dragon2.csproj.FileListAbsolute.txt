@@ -1,0 +1,12 @@
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/dragon2.csprojResolveAssemblyReference.cache
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/dragon2.csproj.CoreCompileInputs.cache
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/dragon2.AssemblyInfoInputs.cache
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/dragon2.AssemblyInfo.cs
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/bin/Debug/netstandard2.0/dragon2.deps.json
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/bin/Debug/netstandard2.0/dragon2.dll
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/bin/Debug/netstandard2.0/dragon2.pdb
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/dragon2.dll
+/Users/maryoh/Documents/Dev/Dragon2/dragon2/dragon2/obj/Debug/netstandard2.0/dragon2.pdb
